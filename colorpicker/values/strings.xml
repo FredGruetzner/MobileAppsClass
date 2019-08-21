@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="Red">R</string>
+    <string name="Blue">B</string>
+    <string name="Green">G</string>
+    <string name="Save">Save Color</string>
+    <string name="colorEntry">Enter Color Name Here</string>
+    <string name="zero">0</string>
+    <string name="spinner">Color List Here</string>
+    <string name="noColor">"Please enter a color name"</string>
+    <string name="enterColor">"Please select a Color"</string>
+    <string name="share">"Send to Color Blender"</string>
+</resources>
