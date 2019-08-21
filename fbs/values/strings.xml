@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FBS</string>
+    <string name="flash">Start Flashing</string>
+    <string name="bleep">Start Bleeping </string>
+    <string name="shake">Start Shaking</string>
+    <string name="stopflash">Stop Flashing</string>
+    <string name="stopbleep">Stop Bleeping</string>
+    <string name="stopshake">Stop Shaking</string>
+</resources>
