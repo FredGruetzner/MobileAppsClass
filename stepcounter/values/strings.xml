@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Step Counter</string>
+    <string name="stepOn">Count Steps</string>
+    <string name="stairsOn">Count Stairs</string>
+    <string name="stopCount">Stop Counting</string>
+    <string name="finished">Trip Finished</string>
+    <string name="speed">Speedometer</string>
+    <string name="returnTo">Return to Counter</string>
+    <string name="raw">Raw Values</string>
+    <string name="stats">Statistics</string>
+    <string name="dist">Distance/Time</string>
+    <string name="rawOn">Hide Raw Values</string>
+    <string name="statsOn">Hide Statistics</string>
+    <string name="distOn">Hide Distance/Time</string>
+    <string name="rawOff">Show Raw Values</string>
+    <string name="statsOff">Show Statistics</string>
+    <string name="distOff">Show Distance/Time</string>
+    <string name="statStep">Steps</string>
+    <string name="statStair">Stairs</string>
+    <string name="minX">Min X</string>
+    <string name="minY">Min Y</string>
+    <string name="minZ">Min Z</string>
+    <string name="average">Average</string>
+    <string name="axisX">X Axis</string>
+    <string name="axisY">Y Axis</string>
+    <string name="axisZ">Z Axis</string>
+</resources>
