@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_tracker"
+                android:icon="@drawable/baseline_child_care_black_18dp"
+                android:title="@string/menu_tracker"/>
+        <item
+                android:id="@+id/nav_report"
+                android:icon="@drawable/baseline_folder_black_18dp"
+                android:title="@string/menu_report"/>
+        <item
+                android:id="@+id/nav_editProfile"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/menu_slideshow"/>
+        <item
+                android:id="@+id/nav_changeProfile"
+                android:icon="@drawable/baseline_child_friendly_black_18dp"
+                android:title="@string/menu_tools"/>
+    </group>
+
+    <item android:title="@string/menu_camera">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                        android:id="@+id/nav_camera"
+                        android:icon="@drawable/ic_menu_camera"
+                        android:title="@string/menu_picture"/>
+                <item
+                        android:id="@+id/nav_gallery"
+                        android:icon="@drawable/ic_menu_gallery"
+                        android:title="@string/menu_gallery"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="@string/menu_bluetooth">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                        android:id="@+id/nav_speaker"
+                        android:icon="@drawable/baseline_bluetooth_black_18dp"
+                        android:title="@string/menu_bluetooth"/>
+            </group>
+        </menu>
+    </item>
+
+</menu>
